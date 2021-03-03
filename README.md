@@ -18,8 +18,11 @@ For more information, please check Tuya Developer Website.
 ### 三、开发计划
 
 3月24前完成
+
 1）3月14前准备物料
+
 2）3月14-21日 阅读涂鸦使用文档，进行程序的编写
+
 3）3月21-24日 进行整体整体调试
 
 ### 四、制作目标
