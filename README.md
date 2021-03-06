@@ -7,7 +7,7 @@ For more information, please check Tuya Developer Website.
 
 ### **一、方案标题**
 
- 宠物喂食器
+ 	宠物喂食器
 
 ### 二、设计背景
 
